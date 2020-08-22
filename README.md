@@ -1,1 +1,15 @@
 Collection of icons, missing in SailfishOS by default, made by @gregguh on Telegram.
+
+corner1 ![corner1](https://raw.githubusercontent.com/Pretty-SFOS/sailfishos-extra-icons/master/corner1.svg)
+corner2 ![corner2](https://raw.githubusercontent.com/Pretty-SFOS/sailfishos-extra-icons/master/corner2.svg)
+icon-m-audio-only-disable ![icon-m-audio-only-disable](https://raw.githubusercontent.com/Pretty-SFOS/sailfishos-extra-icons/master/icon-m-audio-only-disable.svg)
+icon-m-audio-only-enable ![icon-m-audio-only-enable](https://raw.githubusercontent.com/Pretty-SFOS/sailfishos-extra-icons/master/icon-m-audio-only-enable.svg)
+icon-m-cast ![icon-m-cast](https://raw.githubusercontent.com/Pretty-SFOS/sailfishos-extra-icons/master/icon-m-cast.svg)
+icon-m-deezer ![icon-m-deezer](https://raw.githubusercontent.com/Pretty-SFOS/sailfishos-extra-icons/master/icon-m-deezer.svg)
+icon-m-spotify ![icon-m-spotify](https://raw.githubusercontent.com/Pretty-SFOS/sailfishos-extra-icons/master/icon-m-spotify.svg)
+icon-m-tidal ![icon-m-tidal](https://raw.githubusercontent.com/Pretty-SFOS/sailfishos-extra-icons/master/icon-m-tidal.svg)
+icon-m-location ![icon-m-location](https://raw.githubusercontent.com/Pretty-SFOS/sailfishos-extra-icons/master/icon-m-location.svg)
+icon-m-playlists ![icon-m-playlists](https://raw.githubusercontent.com/Pretty-SFOS/sailfishos-extra-icons/master/icon-m-playlists.svg)
+icon-m-scale-to-16-9 ![icon-m-scale-to-16-9](https://raw.githubusercontent.com/Pretty-SFOS/sailfishos-extra-icons/master/icon-m-scale-to-16-9.svg)
+icon-m-scale-to-21-9 ![icon-m-scale-to-21-9](https://raw.githubusercontent.com/Pretty-SFOS/sailfishos-extra-icons/master/icon-m-scale-to-21-9.svg)
+icon-m-scissors ![icon-m-scissors](https://raw.githubusercontent.com/Pretty-SFOS/sailfishos-extra-icons/master/icon-m-scissors.svg)
